@@ -1,0 +1,27 @@
+{
+  "name": "server_test",
+  "version": "0.0.1",
+  "description": "node-sequelize-postgres",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-middleware": "^3.2.0",
+    "pg": "^7.7.1",
+    "postgresql": "^0.0.1",
+    "sequelize": "^4.42.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juancaa/NodeServer.git"
+  },
+  "author": "JC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juancaa/NodeServer/issues"
+  },
+  "homepage": "https://github.com/Juancaa/NodeServer#readme"
+}
